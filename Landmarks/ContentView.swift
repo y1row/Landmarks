@@ -9,7 +9,9 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, y1row!")
+        Text("Turtle Rock")
+            .font(.title)
+            .foregroundColor(.green)
     }
 }
 
