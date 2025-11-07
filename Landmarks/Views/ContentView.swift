@@ -35,7 +35,7 @@ struct ContentView: View {
                 Text("Descriptive text goes here.")
             }
             .padding()
-            
+
             Spacer()
         }
     }
